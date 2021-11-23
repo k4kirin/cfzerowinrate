@@ -146,7 +146,7 @@ class Guide extends Component {
 	
 	render() {
 		return(
-			<div style={{float: "left", marginRight: "5%", marginTop: "1%"}}>
+			<div style={{float: "left", width: "45%", marginLeft: "2%", marginTop: "1%"}}>
 				<label for="level">Clan level (0-{MAX_LEVEL}): </label>
 				<input style={{color: this.state.errorLv?"red":"black"}} type="text" id="level" onChange={this.handleLvChange.bind(this)}></input><br/>
 				<label for="curExp">Current experience (0-{this.state.expType*100}): </label>
@@ -168,6 +168,7 @@ class Guide extends Component {
 				Clan level: {this.state.level}<br/>
 				Current experience: {this.state.curExp}<br/>
 				Total experience: {this.state.totalExp}<br/>
+				Games played: {this.state.wins + this.state.losses}<br/>
 			</div>
 		);
   }

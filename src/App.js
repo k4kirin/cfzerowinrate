@@ -6,6 +6,9 @@ import Header from './Header';
 import './App.css';
 
 export default class App extends Component {
+  componentDidMount(){
+    document.title = "Cardfight!! Vanguard ZERO Win Rate Calculator"
+  }
 	render() {
 		return (
 			<div>
