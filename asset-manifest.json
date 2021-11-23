@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cfzerowinrate/static/css/main.78ea71bf.chunk.css",
-    "main.js": "/cfzerowinrate/static/js/main.e994acc2.chunk.js",
-    "main.js.map": "/cfzerowinrate/static/js/main.e994acc2.chunk.js.map",
+    "main.js": "/cfzerowinrate/static/js/main.d987e634.chunk.js",
+    "main.js.map": "/cfzerowinrate/static/js/main.d987e634.chunk.js.map",
     "runtime-main.js": "/cfzerowinrate/static/js/runtime-main.fd3e34a2.js",
     "runtime-main.js.map": "/cfzerowinrate/static/js/runtime-main.fd3e34a2.js.map",
     "static/js/2.bc5ffccd.chunk.js": "/cfzerowinrate/static/js/2.bc5ffccd.chunk.js",
     "static/js/2.bc5ffccd.chunk.js.map": "/cfzerowinrate/static/js/2.bc5ffccd.chunk.js.map",
     "index.html": "/cfzerowinrate/index.html",
-    "precache-manifest.76cf87de513e3ddef9338ec0f8ed9d43.js": "/cfzerowinrate/precache-manifest.76cf87de513e3ddef9338ec0f8ed9d43.js",
+    "precache-manifest.f205c90ed1742d6ff85a88401b6d2b40.js": "/cfzerowinrate/precache-manifest.f205c90ed1742d6ff85a88401b6d2b40.js",
     "service-worker.js": "/cfzerowinrate/service-worker.js",
     "static/css/main.78ea71bf.chunk.css.map": "/cfzerowinrate/static/css/main.78ea71bf.chunk.css.map",
     "static/js/2.bc5ffccd.chunk.js.LICENSE.txt": "/cfzerowinrate/static/js/2.bc5ffccd.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.fd3e34a2.js",
     "static/js/2.bc5ffccd.chunk.js",
     "static/css/main.78ea71bf.chunk.css",
-    "static/js/main.e994acc2.chunk.js"
+    "static/js/main.d987e634.chunk.js"
   ]
 }

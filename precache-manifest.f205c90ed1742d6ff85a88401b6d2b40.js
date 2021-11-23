@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9dbb3c7a03322367aeb7cbd7f524a5bb",
+    "revision": "1fd61ac699d04deb780a61c04f276469",
     "url": "/cfzerowinrate/index.html"
   },
   {
-    "revision": "bd76259459bc26173ee1",
+    "revision": "155829f8517dc308cd1f",
     "url": "/cfzerowinrate/static/css/main.78ea71bf.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cfzerowinrate/static/js/2.bc5ffccd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bd76259459bc26173ee1",
-    "url": "/cfzerowinrate/static/js/main.e994acc2.chunk.js"
+    "revision": "155829f8517dc308cd1f",
+    "url": "/cfzerowinrate/static/js/main.d987e634.chunk.js"
   },
   {
     "revision": "ce2fc091235c4a40a5c8",
